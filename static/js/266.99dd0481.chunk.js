@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[266],{1266:function(e,t,n){n.r(t);n(2791);var r=n(184);t.default=function(){return(0,r.jsxs)("div",{children:[(0,r.jsx)("h1",{children:"Welcome to PHONEBOOK!"}),(0,r.jsx)("p",{children:"Please sign in or sign up to put your contacts on the list"})]})}}}]);
+//# sourceMappingURL=266.99dd0481.chunk.js.map
