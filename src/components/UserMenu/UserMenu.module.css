@@ -1,0 +1,14 @@
+.box {
+  display: block !important;
+  margin-right: 20px !important;
+  margin-left: 10px !important;
+}
+.name {
+  font-size: 20px !important;
+  font-weight: 500 !important;
+}
+.email {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 1 !important;
+}
