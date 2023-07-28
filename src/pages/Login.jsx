@@ -14,24 +14,6 @@ import { logIn } from 'redux/auth/authOperations';
 import { useDispatch } from 'react-redux';
 import { Copyright } from 'components/Copyright/Copyright';
 
-// const Copyright = props => {
-//   return (
-//     <Typography
-//       variant="body2"
-//       color="text.secondary"
-//       align="center"
-//       {...props}
-//     >
-//       {'Copyright © '}
-//       <Link color="inherit" href="https://github.com/MrRafalGlowacki">
-//         Rafał Głowacki
-//       </Link>{' '}
-//       2023
-//       {'.'}
-//     </Typography>
-//   );
-// };
-
 const theme = createTheme();
 
 const SignIn = () => {
